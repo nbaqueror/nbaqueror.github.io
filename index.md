@@ -1,5 +1,5 @@
-# Natalia Baquero
-<img style="float: right;" src="Image.jpeg" width="125" height="125">
+# Natalia Baquero <img style="float: right;" src="Image.jpeg" width="125" height="125">
+
 
 
 ## Ingeniero de Petroleos
