@@ -3,7 +3,7 @@
 ### Working with GPK since Apr2023
 > Actualmente trabajando con los modelos de simulacion de LL34 y Cabrestero
 
-# <img style="float: right;" src="" width="125" height="125">
+# <img style="float: right;" src="Sin tîtulo.png" width="125" height="125">
 
 
 ## Links
