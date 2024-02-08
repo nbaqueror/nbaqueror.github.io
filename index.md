@@ -7,4 +7,4 @@
 > Actualmente trabajando con los modelos de simulacion de LL34 y Cabrestero
 
 ## Links
-<a href="(https://co.linkedin.com/in/natalia-baquero-401b101ba" target="_blank">LinkedIn</a>
+<a href="https://co.linkedin.com/in/natalia-baquero-401b101ba" target="_blank">LinkedIn</a>
